@@ -1,4 +1,4 @@
-I'm an **AI/Backend Engineer** focused on engineering intelligent systems that drive efficiency and deliver cost-effective AI solutions for businesses.
+I'm an **AI/Backend Engineer** specializing in engineering intelligent systems that drive efficiency and deliver cost-effective AI solutions for businesses.
 
 ---
 
