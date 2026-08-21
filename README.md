@@ -14,4 +14,4 @@ I'm an **AI/Backend Engineer** focused on engineering intelligent systems that d
 
 
 ### 📩 Connect
-* contact.stephanie.dev@gmail.com[mailto: contact.stephanie.dev@gmail.com]
+* [contact.stephanie.dev@gmail.com](mailto:contact.stephanie.dev@gmail.com)
