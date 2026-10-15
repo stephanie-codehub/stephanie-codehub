@@ -3,6 +3,7 @@
 ---
 
 ### 🛠️ Core Stack
+* **Mobile:** Flutter
 
 * **Backend:** Python • FastAPI • Pydantic • Alembic • SQLAlchemy • PostgreSQL • Redis • Celery • Pytest
 
